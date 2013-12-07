@@ -1,0 +1,557 @@
+﻿--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: Rahul
+author_email: rahul2k4@yahoo.com
+author_url: ''
+content: Thanks aton.... u are super cool ;)
+created_at: 2009-03-11 22:34:20.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: Rahul
+author_email: Rahul2k3@yahoo.com
+author_url: ''
+content: Hi! seen ur example and implemented it but OnMouseOver event is not working...
+  can u tell me y?????
+created_at: 2009-03-13 09:50:48.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: http://www.jacquelinewhite.co.uk/
+content: Can you provide a short example where it's not working?
+created_at: 2009-03-13 10:01:17.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: allen&#8217;s codeSource &raquo; Blog Archive &raquo; Display HTML in
+  an AJAX autoCompleteExtender
+author_email: ''
+author_url: http://allenringgold.com/?p=211
+content: '[...] first found out about this from Rob White, aka ILIVEWITHIAN on The
+  Old Sewing Factory.  Credit goes to him, this is just an example of how I did it
+  in [...] '
+created_at: 2009-09-10 01:57:28.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: Allen Ringgold
+author_email: allen@allenRinggold.com
+author_url: http://www.allenRinggold.com
+content: |-
+  Rob,
+     Thanks for this post.  I used your methods recently and did a writeup of my implementation <a href="http://allenringgold.com/?p=211" rel="nofollow">here</a>, giving you credit throughout.  Hope you don't mind, but I linked back to this post and your .js file.
+
+  Thanks again!
+  -Allen
+created_at: 2009-09-10 02:00:31.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: Joel Chretien
+author_email: joelchretien@gmail.com
+author_url: ''
+content: This should be added to the framework itself.
+created_at: 2009-11-03 18:23:53.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: http://www.jacquelinewhite.co.uk/
+content: Thanks Joel, feel free to suggest it to the ajax toolkit guys.
+created_at: 2009-11-05 10:34:37.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: Christian B
+author_email: cb@cbonsall.co.uk
+author_url: ''
+content: |-
+  Hi there, could anyone point me in the right direction for overriding the .cs file?
+
+  I have downloaded the .cs file and added it to my project, but it seems to be clashing with the existing references to the ajaxcontroltoolkit.
+
+  How should I be using this .cs file, should I remove the ref to the ajaxcontroltoolkit and add individual .cs fies for all the Ajax bits I use?
+created_at: 2010-09-28 11:24:11.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: |-
+  Hi Christian,
+
+  The cs file needs to be added to the ajaxcontrol toolkit. If you get the latest source and add the project to your solution you can then hack around inside the existing project (one of the joys of open source).
+
+  I would be cautious though, my code file is now a bit out of date and they may well have fixed other bugs in the control.
+
+  Let me know how you get on.
+created_at: 2010-09-28 21:52:59.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: caumounda
+author_email: srt55t5t5t5t@yandex.ru
+author_url: http://Website
+content: this is very good for you, ybg :)
+created_at: 2010-12-11 16:53:26.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2008/12/11/arbitrary-html-in-the-autocompleteextender/
+author_name: Informasi Online Perkumpulan Masyarakat Jawa Keluyuran di Sumatera
+author_email: ''
+author_url: http://pujakesuma.org/?option=com_content&view=article&id=1%3Apotensi-budaya-dan-sastra-di-sumut&Itemid=7&fontstyle=f-smaller
+content: |-
+  <strong>Informasi Online Perkumpulan Masyarakat Jawa Keluyuran di Sumatera...</strong>
+
+  [...]The Old Sewing Factory | Arbitrary HTML in the AutoCompleteExtender[...]...
+created_at: 2012-02-06 04:11:06.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2009/01/20/prevent-autofill-autocomplete-of-a-web-form/
+author_name: Chris Eargle
+author_email: kodefuguru@live.com
+author_url: http://kodefuguru.com
+content: 'I wish I knew about that a few years ago. I had a client complain about
+  the yellow boxes. So, I recommended she stop using FireFox! ::ducks the bricks from
+  the FF users::'
+created_at: 2009-07-01 15:41:31.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2009/01/20/prevent-autofill-autocomplete-of-a-web-form/
+author_name: Jeremy Walker
+author_email: jez.walker@gmail.com
+author_url: http://www.meducation.net
+content: You can also do this on individual input boxes. Useful where you maybe have
+  one server-side powered drop-down but want the browser to handle autocomplete on
+  the rest. Same code, just on input.
+created_at: 2010-06-07 16:59:48.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2009/01/20/prevent-autofill-autocomplete-of-a-web-form/
+author_name: Sha Tramonte
+author_email: Austria1427@hotmail.com
+author_url: http://kickbinsomnia.com
+content: "Quite a beautiful website. I just finished mine and i was looking for some
+  design ideas and you gave me a few. The website was developed by you?\r\n\r\nThanks"
+created_at: 2010-12-11 14:18:51.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2009/01/20/prevent-autofill-autocomplete-of-a-web-form/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: No I didn't develop this site, I just use it as a scratch pad so I don't
+  forget things. It's a wordpress site and I use a theme called Mystique by http://digitalnature.ro/
+created_at: 2010-12-13 20:01:58.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2009/01/20/prevent-autofill-autocomplete-of-a-web-form/
+author_name: John Vassall
+author_email: Ertley@gmail.com
+author_url: http://www.fdfdkivklhggrsdf-g.co
+content: I have been reading out many of your stories and i can claim pretty clever
+  stuff. I will make sure to bookmark your blog.
+created_at: 2011-03-27 23:53:05.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2009/01/20/prevent-autofill-autocomplete-of-a-web-form/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: I'm glad you like what you see.
+created_at: 2011-04-01 10:06:44.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/03/04/code-templates-for-migratordotnet/
+author_name: Jimbo
+author_email: jim@brilliantfuture.co.uk
+author_url: ''
+content: |-
+  Hullo
+
+  Thanks for posting this. Exactly what I wanted but didn't have the skills or time to attempt.
+
+  Unfortunately I've followed your directions but the item doesn't appear in the list when I try to add an item to my project.
+
+  Do you think you could help me out?
+
+  Using VS2010 professional. Windows XP SP3
+
+  Thanks
+
+  Jim
+created_at: 2010-04-28 23:50:18.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/03/04/code-templates-for-migratordotnet/
+author_name: Jimbo
+author_email: jim@brilliantfuture.co.uk
+author_url: ''
+content: |-
+  Hello
+
+  I realised that I was trying to add this Item to a web project. When I try to add a new item to a class library project the item "Migration Template" does appear the in the "Add New Items" list but when I try to add the item I get an error dialog with the message "An Item With This Key Has Already Been Added"
+
+  Can you please suggest how I can fix this?
+
+  Thanks!
+
+  Jim
+created_at: 2010-04-29 00:16:43.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/03/04/code-templates-for-migratordotnet/
+author_name: Jimbo
+author_email: jim@brilliantfuture.co.uk
+author_url: ''
+content: |-
+  Me again
+
+  A quick update.
+
+  I'm wondering whether the code you've written in your RunStarted is not working in my machine or in my locale or something.
+
+  From the decompiled version I can only see the following line of code:
+
+   replacementsDictionary.Add("$migrationId$", string.Format("{0:yyyyMMddhhssfff}", DateTime.Now));
+
+  and I'm wondering if this line is generating the error message in the previous message I posted.
+
+  I don't mind plugging away at this. How would you feel about sending me the source code. Looks like there's not much to it, but I'd rather have the code than retype and make errors.
+
+  Cheers!
+
+  Jim
+created_at: 2010-04-29 00:46:21.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/03/04/code-templates-for-migratordotnet/
+author_name: Jimbo
+author_email: jim@brilliantfuture.co.uk
+author_url: ''
+content: |-
+  And again.
+
+  Looks like the string format is working fine - I ran a test.
+
+  Now I'm stuck.
+
+  Cheers!
+
+  Jim
+created_at: 2010-04-29 01:53:49.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/03/04/code-templates-for-migratordotnet/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: http://www.jacquelinewhite.co.uk/
+content: |-
+  Hi Jimbo,
+
+  I did test this with VS2010, but not the RTM. I'll try and take a look later today (time permitting). I'm happy for you to have the source, again I'll dig it out  later today.
+
+  Rob
+created_at: 2010-04-29 07:14:54.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/06/28/working-with-partially-constructed-objects-in-net/
+author_name: Jeremy Walker
+author_email: jez.walker@gmail.com
+author_url: http://www.meducation.net
+content: |-
+  Interesting one.
+
+  If the constructor took a CanILeak, and set the value to itself, then it would surely depend on whether the variable was passed with the ref keyword or not. I have no idea what the scoping is for the lambda expression. If the expression is passed and executed in the context of the new object (in effect, leakyRef has been passed without ref) , I'd say your output would just be "Exception". If it is executed in the context if Main() then you'd get both lines of output.
+
+  I'm going to go for the latter.  I'm working in Linux atm, else I'd have a play. Let me know which it was, and why :-)
+created_at: 2010-06-28 14:07:54.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/06/extension-method-for-validating-entities/
+author_name: Jeremy Walker
+author_email: jez.walker@gmail.com
+author_url: ''
+content: There's a formatting but in the blog that makes the code unreadable without
+  the use of Firebug. The pre's need an overflow="auto".
+created_at: 2010-09-08 15:04:37.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/06/extension-method-for-validating-entities/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: http://www.jacquelinewhite.co.uk/
+content: Oh, yeah, thanks for that. Fixed.
+created_at: 2010-09-08 15:17:19.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/24/simplifying-session-wrapping-properties-using-expressionfunc/
+author_name: ihid
+author_email: jez.walker@gmail.com
+author_url: http://ihid.wordpress.com
+content: |-
+  I have a comment and a question.
+
+  The question is about MemberExpression in GetSessionKey(). I'm interested as to why you are using var, rather than statically typing it, as I can't see what you are gaining from it. Is this just a stylistic preference? Also, would this be a good situation for the dynamic keyword, thus refactoring the "else if" to be something like:
+
+  MemberExpression me;
+  dynamic body = expression.Body;
+  ...
+              else if (body is UnaryExpression)
+              {
+                  me = body.Operand as MemberExpression;
+              }
+  ...
+
+  Would this work? I've never used var and not had chance to use dynamic since it came out, so I'm interested by your choices. I'm on linux else I'd crack open VS and have a play :)
+
+  The comment is regarding this IsAssignableFrom check in GetSessionValue(). I'm presuming this is here for if the property is refactored to a different type? If so, is it not a bit dangerous to just wipe the session data that is already there for that property? Would surely be easy to get in a mess here? Obviously the check is important for that very reason, but I'm not sure the invisible override is the safest option.
+
+  Anyway, I think it's great. Really DRY, as you said, and definitely something I would use if I was ever doing ASP and had some need to store data in a session.
+created_at: 2010-09-25 13:47:37.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/24/simplifying-session-wrapping-properties-using-expressionfunc/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: http://www.jacquelinewhite.co.uk/
+content: |-
+  I think there's a slight miss understanding about the var keyword. By using it I am statically typing my code. It's just syntactic sugar in C#, if I tried to call a method on the 'body' variable that didn't exist I'd get a compilation failure. So, yes it's just stylistic preference, the reason it's become my preference is 3 fold; Firstly: I have to type less to declare variable. Secondly: I don't have to repeat myself lots - as you do with older C# syntax and finally I just like the way the code ends up looking, it seems less cluttered to my eyes.
+
+  As to your question about IsAssignableFrom, what this means is that I can have a property in the form that I gave above. An IList is not a List, but a List can be assigned to an IList. Essentially, this allows the programmer to keep their property as abstract as they wish, but still assign anything they fancy into it. If they property is refactored into a different type, say from a string to an int, but your default is still a string the code will no longer compile, as the generically typed constraints on "Expression&lt;Func&gt; expression" and "T defaultValue" will no longer match. That said, reading the code again, wordpress has helpfully munged it a bit, so I'll get that fixed, which should help.
+created_at: 2010-09-25 13:21:08.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/24/simplifying-session-wrapping-properties-using-expressionfunc/
+author_name: Jeremy Walker
+author_email: jez.walker@gmail.com
+author_url: http://Website
+content: |-
+  Yeah, I didn't phrase the bit about var very well. Instead of statically typing, I should have written explicitly typing. You could still use the dynamic keyword instead though. Maybe?
+
+  Regarding the second part - good answer. :)
+created_at: 2010-09-30 22:42:31.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/24/simplifying-session-wrapping-properties-using-expressionfunc/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: You could use dynamic, but I'm not sure it would give you any grand advantage.
+  It seems a bit like it's being used for the sake of it rather than to solve an actual
+  problem.
+created_at: 2010-10-04 16:10:59.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/25/nevernull-because-we-cant-extend-the-operator/
+author_name: Jeff Handley
+author_email: gravatar@jeffhandley.com
+author_url: http://jeffhandley.com
+content: |-
+  I ended up with something very similar last night.  The implementation is too sloppy to show at the moment, but I was allowing for methods with or without arguments. I was parsing an expression as well though.  I haven't done any perf tests yet.  The syntax I was using was:
+
+  string bar = foo.NullOr(f =&gt; f.ChildProperty.ChildPropertyMethod().ChildProperty.StringProperty);
+
+  Notice I skipped the default value bit, as I just want null if anything is null.
+created_at: 2010-09-25 21:23:46.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/30/migrator-net-code-templates/
+author_name: Code Templates for MigratorDotNet
+author_email: ''
+author_url: http://theoldsewingfactory.com/2010/03/04/code-templates-for-migratordotnet/
+content: '[...]  [...] '
+created_at: 2010-09-30 21:19:08.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/30/migrator-net-code-templates/
+author_name: FluentMigrator Code Templates
+author_email: ''
+author_url: http://theoldsewingfactory.com/2011/05/17/fluentmigrator-code-templates/
+content: '[...] little while back I created some migrator.net code templates. Since
+  I’ve now moved over to using FluentMigrator it seemed only reasonable that I port
+  the [...] '
+created_at: 2011-05-17 22:52:21.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/09/30/migrator-net-code-templates/
+author_name: hire man and van greater london
+author_email: aracely.romeo@gmail.com
+author_url: http://manvanlondon78.inube.com/
+content: A handful of fine points here and actually didnt have a clue in relation
+  to any of this in the past so cheers for the knowledge
+created_at: 2012-12-26 01:35:29.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/11/08/webforms-can-be-sexy-too/
+author_name: Labor Opus Group
+author_email: BurchettMorano95@yahoomail.com
+author_url: http://www.laboropus-group.com
+content: I have read several good stuff here. Definitely worth bookmarking for revisiting.
+  I wonder how a lot effort you set to create this type of excellent informative web
+  site.
+created_at: 2013-10-07 06:08:29.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2010/12/05/saving-csv-files-in-utf8-creates-a-characters-in-excel/
+author_name: Tristan
+author_email: theoldsewingfactory@tr1stan.com
+author_url: http://tr1stan.com
+content: |-
+  I went through exactly the same process, I was just looking at alternative encodings and found your solution - which which works great for Excel 2003.
+
+  Thanks very much.
+created_at: 2011-06-28 15:53:59.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/06/enable-ssl-in-web-config-for-smtpclient/
+author_name: ntziolis
+author_email: none@none.de
+author_url: http://Website
+content: |-
+  Actually you can find it here (agreed, its stupidly hidden in the sub elements description):
+  http://msdn.microsoft.com/en-us/library/ms164242.aspx
+created_at: 2011-01-28 13:13:38.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/06/enable-ssl-in-web-config-for-smtpclient/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: |-
+  Yeah, eventually I managed to find that page as well. It's a shame it's not easier to find.
+
+  Thanks for posting the link.
+created_at: 2011-02-03 19:02:44.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/06/enable-ssl-in-web-config-for-smtpclient/
+author_name: David
+author_email: musicisair@yahoo.com
+author_url: http://Website
+content: 'Although it doesn''t actually work: http://msdn.microsoft.com/en-us/library/ms164242.aspx#CommunityContentHeader'
+created_at: 2011-04-28 01:21:18.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/06/enable-ssl-in-web-config-for-smtpclient/
+author_name: ilivewithian
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: Odd, it worked fine for me (so far as I remember).
+created_at: 2011-04-30 15:39:13.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/06/enable-ssl-in-web-config-for-smtpclient/
+author_name: bcherney
+author_email: brian@thecherneys.com
+author_url: http://blog.thecherneys.com
+content: Worked for me.  Thank you for the post...
+created_at: 2012-03-10 22:29:58.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/07/unit-testing-in-1995-hello-asp-net-membership-providers/
+author_name: Leo Moore
+author_email: leommoore@gmail.com
+author_url: http://Website
+content: Membership really is an untestable mess. It could really do with a fluent
+  interface.
+created_at: 2011-08-03 10:23:50.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/01/07/unit-testing-in-1995-hello-asp-net-membership-providers/
+author_name: Leo Moore
+author_email: leommoore@gmail.com
+author_url: http://Website
+content: Thanks for your post Rob.
+created_at: 2011-08-03 10:24:36.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/02/06/getting-started-with-rails/
+author_name: Jeremy Walker
+author_email: jez.walker@gmail.com
+author_url: http://Website
+content: |-
+  Getting it all running is actually the most difficult part, especially on Windows. Maybe it's got smoother recently or maybe you're just good? :)
+
+  Bundle install checks the dependencies for whatever plugins you're using and creates a Gemfile.lock, which I believe you need to have in place for "rails server" to work (talking of which, "rails s" is a shorter alternative).
+
+  If you fancy setting up a github project (or equiv) as a playground, I'll mess around with some code there with you. Fun times!
+created_at: 2011-02-06 15:18:59.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/04/04/forcing-culture-settings-in-wcf/
+author_name: JiPe-Freckles
+author_email: poubelle.jipe@gmail.com
+author_url: http://Website
+content: |-
+  Hello Rob,
+
+  After all, i would like to say good work.
+  I pass my journey ti try to do the same think, but no success. Do you think it is possible to share with me your example please?
+
+  Thank you
+  Best regards
+created_at: 2011-07-28 19:04:07.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/04/04/forcing-culture-settings-in-wcf/
+author_name: avaneeth
+author_email: avaneeth.aravind@gmail.com
+author_url: ''
+content: Good one.. :)
+created_at: 2013-06-12 08:13:20.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/10/10/a-better-guard-class/
+author_name: Jeremy Walker
+author_email: Jez.walker@gmail.com
+author_url: ''
+content: "This all strikes me as a little overkill. I can't see the advantage of this
+  over a simple if and throw:\r\n\r\nif string.IsNullOrEmpty(serverName)\r\n    throw
+  new InvalidOperationException(\"Server name must be provided.\");\r\n\r\nIf you're
+  going to add extra functionality, like logging etc, then it makes more sense, but
+  even then it just feels like a lot of extra wording to remember for something really
+  simple. Maybe that's just me being out of touch with VS's autocomplete, but it feels
+  like something that could be a simple method call is becoming a bloated chain of
+  events. Also, from an extendibility POV, what happens if you want to pass other
+  data to the exception? Suddenly, you're going to need up daisy chain the static
+  methods etc. \r\n\r\nBeer to discuss further? Pie tonight?"
+created_at: 2011-10-10 19:11:54.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/10/10/a-better-guard-class/
+author_name: Rob White
+author_email: rob.j.white@gmail.com
+author_url: ''
+content: "It's about intent. Your example is functional, it will work and on many
+  levels there is nothing wrong with it. However, it does not clearly express what
+  you intend the code to do. Since the code will be read many more times than it's
+  coded I would rather it is slightly easier to read, in any places that I can.\r\n\r\nYour
+  point about adding additional data to the exception is a good one. I don't think
+  it would be very difficult to create something that reads like Throw<Exception>.WithMessage(\"fail\").AndTheData(someData).When(youSuck
+  == true);"
+created_at: 2011-10-10 21:23:06.000000000 +01:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/10/17/dynamic-robots-txt-in-asp-mvc/
+author_name: Marie Sligh
+author_email: marie.sligh@photobooks.com
+author_url: ''
+content: Thank you! Just what I was looking for!
+created_at: 2012-03-02 16:21:15.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://theoldsewingfactory.com/2011/10/17/dynamic-robots-txt-in-asp-mvc/
+author_name: david kavanagh
+author_email: david.kavanagh@purplebricks.com
+author_url: http://purplebricks.com
+content: |-
+  Sweet! .. what about an iis redirect rule ? this might work too ..maybe more easily ?
+
+  Ie conditionally serve a robots.txt file depending on the domain of the request.
+created_at: 2013-03-07 11:16:21.000000000 +00:00
+
