@@ -5,6 +5,7 @@ rdiscount:
   extensions: [smart]
 
 name: Rob White
+sitename: theoldsewingfactory.com
 url: http://theoldsewingfactory.com
 description: No more than my online scratchpad.
 twitter: ilivewithian
