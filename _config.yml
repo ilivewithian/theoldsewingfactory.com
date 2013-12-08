@@ -1,38 +1,12 @@
-#
-# Blog Settings
-#
-author: Rob White
-description: Don't judge me, it's just my online scratch pad
-url: http://theoldsewingfactory.com
-title: The Old Sewing Factory
-subtitle: Just my online scratch pad
-gravatar_url: http://www.gravatar.com/avatar/3d0c55237259b0b7e555272872a50f9f 
-subscribe_rss: http://www.theoldsewingfactory.com.com/feed.xml
-
-# Github repositories
-github_user: ilivewithian
-github_repo_url: https://github.com/ilivewithian/theoldsewingfactory.com/
-
-# Twitter
-twitter_user: ilivewithian
-twitter_tweet_button: true
-
-# Disqus Comments
-disqus_short_name: ilivewithian
-disqus_show_comment_count: false
-
-# Google Analytics
-google_analytics_tracking_id: UA-1566412-7
-
-
-#
-# Jekyll Settings
-#
 markdown: rdiscount
 pygments: true
-permalink: /:year/:month/:day/:title/
+permalink: /posts/:title
 rdiscount:
   extensions: [smart]
-paginate: 5
-paginate_path: "page/:num"
-category_dir: categories
+
+name: Rob White
+url: http://theoldsewingfactory.com
+description: No more than my online scratchpad.
+twitter: ilivewithian
+github: ilivewithian
+gravatar_url: http://www.gravatar.com/avatar/3d0c55237259b0b7e555272872a50f9f?s=160
