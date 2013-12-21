@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplifying Session Wrapping Properties using Expression&;ltFunc&gt;
+title: Simplifying Session Wrapping Properties using Expression&lt;Func&gt;
 ---
 
 I'm not a big fan of using session, but sometimes there isn't a sensible alternative. In that case I _always_ wrap the session object in a property. In the past I've failed to come up with a satisfactory session variable naming convention. With that I've always hated using strings for session names. Each solution basically boils down to typing some strings some where in your code, either directly into the call to `Session[]` or the same process, but via a series of predefined const strings. Using a const string gets you slightly cleaner code, but there is nothing to prevent a developer picking the wrong const and ending up in a delightful mess.
