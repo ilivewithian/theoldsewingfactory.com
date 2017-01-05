@@ -1,8 +1,6 @@
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 permalink: /:year/:month/:day/:title/
-rdiscount:
-  extensions: [smart]
 
 name: Rob White
 author_url: https://plus.google.com/u/0/+RobWhite-ilivewithian
