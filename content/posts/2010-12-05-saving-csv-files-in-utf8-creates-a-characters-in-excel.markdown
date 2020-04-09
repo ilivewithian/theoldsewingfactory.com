@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Saving CSV files in UTF8 Creates &#194; Characters in Excel
+url: "/2010/12/05/saving-csv-files-in-utf8-creates-a-characters-in-excel/" 
 date: 2010-12-05
 ---
 
